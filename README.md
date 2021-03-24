@@ -9,4 +9,4 @@ This code computes the eigenvalues of a symmetric matrix using Jacobi's Method. 
 This code implements the Steepest Descent Algorithm and Newton's Method for Multivariate Functions (both with backtracking line search) for a specific multivariate function. Then we vary some of the parameters to investigate how the rate of convergence depends on the parameters. Multiple plots are presented.
 
 ## "Newton's Method.m"
-This code uses Newton's Method to compute the inverse of an invertible matrix. We check the accuracy of our implementation by computing the forward and backward errors. 
+This code uses Newton's Method to compute the inverse of invertible matrices. We check the accuracy of our implementation by computing the forward and backward errors. 
